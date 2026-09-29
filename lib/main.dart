@@ -1,3 +1,4 @@
+// TEST RIZZA 2026
 import 'package:flutter/material.dart';
 
 void main() {
@@ -317,7 +318,7 @@ class BiodataScreen extends StatelessWidget {
                 'ACHIEVEMENTS',
                 style: TextStyle(
                   fontSize: 22,
-                  fontWeight: FontWeight.bold,
+                  fontWeight: FontWeight.bold,git add -A
                 ),
               ),
             ),
